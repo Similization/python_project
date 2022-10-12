@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+pyvenv.cfg
+.Python
+.idea
+lib
+bin
+.DS_Store
